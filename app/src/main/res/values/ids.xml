@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fotomenu" type="id">fotomenu</item>
+    <item name="namaAir" type="id">namaAir</item>
+    <item name="detailAir" type="id">detailAir</item>
+    <item name="layout1" type="id">layout1</item>
+</resources>
